@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
             "ASUS TUF Gaming F16 (2024) Laptop para juegos, pantalla FHD+ 144Hz de nivel IPS 16:10, procesador Intel",
             "Laptop para juegos 2025 de 15.6 pulgadas, con 16 GB de RAM, SSD de 512 GB, procesador R5 7430U (hasta 4.3 GHz)",
             "Computadora portátil, computadora portátil, AMD Ryzen 7 5700U (8C/16T, hasta 4.3 GHz), 16 GB RAM"};
-    String[] nombreImg = {"img","img_1","img_2","img_3","img_4","img_5","img_6","img_7","img_9","img_10","img_11"};
+    String[] nombreImg = {"img","img_1","img_2","img_3","img_4","img_5","img_6","img_8","img_9","img_10"};
 
     String[] descripcion = {"\n" +
             "Marca\tRazer\n" +

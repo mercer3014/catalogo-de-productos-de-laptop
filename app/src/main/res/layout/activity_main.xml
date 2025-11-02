@@ -37,7 +37,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="cargarDatos"
-                android:tag="9"
+                android:tag="2"
                 app:srcCompat="@drawable/img_2" />
 
             <ImageButton
@@ -84,6 +84,7 @@
                 android:id="@+id/imageButton10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="cargarDatos"
                 android:tag="8"
                 app:srcCompat="@drawable/img_8" />
 
@@ -91,6 +92,7 @@
                 android:id="@+id/imageButton11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="cargarDatos"
                 android:tag="9"
                 app:srcCompat="@drawable/img_9" />
 
